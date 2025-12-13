@@ -1,0 +1,35 @@
+PolyGraphs Network Epistemology - Summary Statistics
+============================================================
+
+COMPLETE
+----------------------------------------
+  mean_belief: 0.5078 ± 0.0104
+  mean_convergence: 19.2 ± 6.3
+  mean_disagreement: 0.0006 ± 0.0011
+  distance_from_truth: 0.0069
+
+CYCLE
+----------------------------------------
+  mean_belief: 0.4459 ± 0.0056
+  mean_convergence: 69.0 ± 20.2
+  mean_disagreement: 0.0391 ± 0.0033
+  distance_from_truth: 0.0641
+
+SMALL_WORLD
+----------------------------------------
+  mean_belief: 0.5092 ± 0.0051
+  mean_convergence: 1000.0 ± 0.0
+  mean_disagreement: 0.0349 ± 0.0022
+  distance_from_truth: 0.0035
+
+
+KEY FINDINGS:
+----------------------------------------
+1. Cycle graph FALSE CONSENSUS: 0.4459 (truth = 0.51)
+   Distance from truth: 0.0641
+
+2. Convergence speed: Complete (19.2 steps) vs Cycle (69.0 steps)
+   Cycle is 3.6x slower
+
+3. Small-world disagreement: 0.0349 vs Complete: 0.0006
+   Small-world has 62x more disagreement
