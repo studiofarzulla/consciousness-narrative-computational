@@ -1,5 +1,5 @@
-torch==2.2.0
-dgl==2.1.0
+torch==2.8.0
+dgl==2.2.1
 pydantic
 notebook
 matplotlib
