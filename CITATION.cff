@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+type: article
+authors:
+  - family-names: "Farzulla"
+    given-names: "Murad"
+    orcid: "https://orcid.org/0009-0002-7164-8704"
+    email: "murad@dissensus.ai"
+    affiliation: "Dissensus AI"
+title: "Replication Optimization at Scale: Dissolving Qualia via Occam's Razor"
+version: "1.0.0"
+date-released: "2025-12-01"
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.17917970"
+url: "https://dissensus.ai"
+keywords:
+  - consciousness
+  - qualia
+  - eliminative monism
+  - philosophy of mind
+  - replication optimization
+  - narrative self
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Farzulla"
+      given-names: "Murad"
+      orcid: "https://orcid.org/0009-0002-7164-8704"
+  title: "Replication Optimization at Scale: Dissolving Qualia via Occam's Razor"
+  year: 2025
+  doi: "10.5281/zenodo.17917970"
+  publisher:
+    name: "Zenodo"
