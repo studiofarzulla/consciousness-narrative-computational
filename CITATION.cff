@@ -1,33 +1,54 @@
 cff-version: 1.2.0
 message: "If you use or reference this work, please cite it as below."
-type: article
 authors:
-  - family-names: "Farzulla"
-    given-names: "Murad"
-    orcid: "https://orcid.org/0009-0002-7164-8704"
-    email: "murad@dissensus.ai"
-    affiliation: "Dissensus AI"
+- family-names: "Farzulla"
+  given-names: "Murad"
+  orcid: "https://orcid.org/0009-0002-7164-8704"
+  affiliation: "Dissensus AI"
+  email: "murad@dissensus.ai"
 title: "Replication Optimization at Scale: Dissolving Qualia via Occam's Razor"
-version: "1.0.0"
-date-released: "2025-12-01"
-license: "CC-BY-4.0"
-doi: "10.5281/zenodo.17917970"
+type: article
+version: 2.0.0
+doi: "10.5281/zenodo.18013187"
+date-released: 2025-12-22
 url: "https://dissensus.ai"
+repository-code: "https://github.com/studiofarzulla/consciousness-narrative"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18013187"
+    description: "Zenodo archive (v2.0.0)"
+abstract: >
+  This working monograph argues that consciousness, as conventionally conceived,
+  is a category error arising from grammatical reification. The framework treats
+  phenomenological concepts as evolutionary narratives serving coordination
+  functions rather than detected ontological properties. Drawing on eliminative
+  materialism, illusionism, Wittgenstein's language games, and computational
+  approaches, the paper dissolves the 'hard problem' by showing it emerges from
+  nominalization of processes into pseudo-entities. Key contributions include
+  consciousness as memetic narrative with attractor-basin stability, Gödelian
+  analysis of phenomenological self-reference, evidence from LLM phenomenology
+  discourse, and vocabulary reform converting nominalized concepts to process
+  descriptions.
 keywords:
   - consciousness
-  - qualia
   - eliminative monism
+  - illusionism
+  - qualia
+  - hard problem of consciousness
   - philosophy of mind
-  - replication optimization
-  - narrative self
+  - nominalization error
+  - Wittgenstein
+  - artificial intelligence
+  - LLM phenomenology
+license: CC-BY-4.0
 preferred-citation:
   type: article
   authors:
-    - family-names: "Farzulla"
-      given-names: "Murad"
-      orcid: "https://orcid.org/0009-0002-7164-8704"
+  - family-names: "Farzulla"
+    given-names: "Murad"
+    orcid: "https://orcid.org/0009-0002-7164-8704"
   title: "Replication Optimization at Scale: Dissolving Qualia via Occam's Razor"
   year: 2025
-  doi: "10.5281/zenodo.17917970"
+  doi: "10.5281/zenodo.18013187"
   publisher:
     name: "Zenodo"
